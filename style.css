@@ -1,0 +1,11 @@
+#greenclock {
+	width: 150px;
+	height: 150px;
+	background-color: #a7cfa6;
+}
+
+#clocktop {
+	width: 30px;
+	height: 150px;
+	background-color: #8db88c;
+}
